@@ -11,7 +11,7 @@
                 },
                 "Apache & PHP": {
                     "runner": "Apache httpd (PHP, HTML)",
-                    "command": "",
+                    "command": "git push",
                     "name": "Apache & PHP",
                     "default": true,
                     "debug": true
